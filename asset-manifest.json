@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Amr-Aleraki/react-movie.git/static/css/main.f3da86d9.chunk.css",
-    "main.js": "/Amr-Aleraki/react-movie.git/static/js/main.b5b90592.chunk.js",
-    "main.js.map": "/Amr-Aleraki/react-movie.git/static/js/main.b5b90592.chunk.js.map",
-    "runtime-main.js": "/Amr-Aleraki/react-movie.git/static/js/runtime-main.cb301293.js",
-    "runtime-main.js.map": "/Amr-Aleraki/react-movie.git/static/js/runtime-main.cb301293.js.map",
-    "static/js/2.d46c0bd5.chunk.js": "/Amr-Aleraki/react-movie.git/static/js/2.d46c0bd5.chunk.js",
-    "static/js/2.d46c0bd5.chunk.js.map": "/Amr-Aleraki/react-movie.git/static/js/2.d46c0bd5.chunk.js.map",
-    "index.html": "/Amr-Aleraki/react-movie.git/index.html",
-    "static/css/main.f3da86d9.chunk.css.map": "/Amr-Aleraki/react-movie.git/static/css/main.f3da86d9.chunk.css.map",
-    "static/js/2.d46c0bd5.chunk.js.LICENSE.txt": "/Amr-Aleraki/react-movie.git/static/js/2.d46c0bd5.chunk.js.LICENSE.txt"
+    "main.css": "/react-movie/static/css/main.f3da86d9.chunk.css",
+    "main.js": "/react-movie/static/js/main.b5b90592.chunk.js",
+    "main.js.map": "/react-movie/static/js/main.b5b90592.chunk.js.map",
+    "runtime-main.js": "/react-movie/static/js/runtime-main.7e0a9d7d.js",
+    "runtime-main.js.map": "/react-movie/static/js/runtime-main.7e0a9d7d.js.map",
+    "static/js/2.d46c0bd5.chunk.js": "/react-movie/static/js/2.d46c0bd5.chunk.js",
+    "static/js/2.d46c0bd5.chunk.js.map": "/react-movie/static/js/2.d46c0bd5.chunk.js.map",
+    "index.html": "/react-movie/index.html",
+    "static/css/main.f3da86d9.chunk.css.map": "/react-movie/static/css/main.f3da86d9.chunk.css.map",
+    "static/js/2.d46c0bd5.chunk.js.LICENSE.txt": "/react-movie/static/js/2.d46c0bd5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb301293.js",
+    "static/js/runtime-main.7e0a9d7d.js",
     "static/js/2.d46c0bd5.chunk.js",
     "static/css/main.f3da86d9.chunk.css",
     "static/js/main.b5b90592.chunk.js"
